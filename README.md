@@ -49,3 +49,6 @@ Future Updates on the website :
 1. There will more number of catogories and products will be available.
 2. User can find the nearby loaction area markets and purchase them.
 3. There will be tracking option available.
+
+![Screenshot (21)](https://user-images.githubusercontent.com/103222225/168937456-30243e78-70e7-4dcd-8374-ea50de999db4.png)
+
